@@ -1,3 +1,5 @@
+The .R scripts assume that household_power_consumption.txt is in the working directory.
+
 ## Introduction
 
 This assignment uses data from
