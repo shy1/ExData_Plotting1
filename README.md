@@ -1,4 +1,5 @@
 The .R scripts assume that household_power_consumption.txt is in the working directory.
+Commit dates are from last month because I had to drop the class in week 3 and am re-taking it.
 
 ## Introduction
 
